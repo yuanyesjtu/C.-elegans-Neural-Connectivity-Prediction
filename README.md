@@ -24,7 +24,7 @@
   Directory that stores neural connectivity files and calcium activity data.
 
 ## 2. Model Architecture Diagram
-
+<img src="model.png" alt="Model Architecture" width="500">
 
 ## 3. Environment Setup and Execution
 
